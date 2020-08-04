@@ -10,3 +10,6 @@
   |-Prediction.ipynb: Aplicación del mejor modelo encontrado y creación de pipeline para aplicar a publicaciones mediante el ID.
 
 |-requirements.txt: Libreria necesarias
+
+
+|- Los archivos demsiados pesados, como los .json raws y algunos .csv, se guardaron en: https://drive.google.com/drive/folders/1XsDKL_E0l3nvvWXih1c5gmR4m_dO2MBH?usp=sharing
