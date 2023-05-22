@@ -15,5 +15,5 @@ ujson==1.35
 hyperopt==0.2.4
 path==13.1.0
 pickleshare==0.7.5
-requests==2.23.0
+requests==2.31.0
 Rtree==0.9.4
